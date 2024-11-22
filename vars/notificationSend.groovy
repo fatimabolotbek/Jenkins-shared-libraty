@@ -10,7 +10,7 @@ def call(String cb){
                             </body>
                         <html>
                     """,
-                    to: "zholshygulnaz01@gmail.com",
+                    to: "bolotbekfatima1@gmail.com",
                     mimeType: 'text/html'
                     ) 
     }
